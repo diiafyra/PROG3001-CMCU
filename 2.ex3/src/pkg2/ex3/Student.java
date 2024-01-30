@@ -26,7 +26,7 @@ public class Student {
      public Student(){
         name = "Trang Di";
         this.sex = "Nu";
-        this.birth = "20052009";
+        this.birth = "28082005";
         this.studentID = "BIT230400";
     }  
      //Các hàm set

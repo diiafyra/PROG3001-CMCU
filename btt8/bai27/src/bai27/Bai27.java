@@ -10,11 +10,11 @@ import static java.lang.Math.abs;
 import java.util.Scanner;
 
 class tugiac {
-    protected float ab;
-    protected float bc;
-    protected float cd;
-    protected float da;
-    protected float ac;
+     float ab;
+     float bc;
+     float cd;
+     float da;
+     float ac;
 
     public tugiac(float ab, float bc, float cd, float da, float ac) {
         this.ab = ab;
